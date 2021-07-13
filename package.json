@@ -1,0 +1,17 @@
+{
+  "name": "bonker",
+  "version": "1.0.0",
+  "description": "An NPM Package to generate a bonk gif out of an image",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Im2rnado/Bonker.js.git"
+  },
+  "author": "Im2rnado <im2rnado@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "gif-extract-frames": "^1.0.2",
+    "gifencoder": "^2.0.1"
+  }
+}
