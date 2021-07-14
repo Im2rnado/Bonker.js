@@ -1,4 +1,4 @@
-# Usmap.JS
+# Bonker.JS
 [![npm version](https://img.shields.io/npm/v/bonker.svg)](https://npmjs.com/package/bonker)
 [![npm downloads](https://img.shields.io/npm/dm/bonker.svg)](https://npmjs.com/package/bonker)
 [![license](https://img.shields.io/npm/l/bonker.svg)](https://github.com/Im2rnado/Bonker.js/blob/master/LICENSE)
